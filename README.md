@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-not-found-pied.vercel.app">
+    <a href="https://interior-consultant-jx6i.vercel.app">
       Demo
     </a>
     <span> | </span>
@@ -33,7 +33,8 @@
 
 ## Overview
 
-![screenshot](https://github.com/rickneves15/404-not-found/assets/22063149/d87f86e7-95af-48c3-9f26-bced650552b5)
+![image](https://github.com/rickneves15/interior-consultant/assets/22063149/e7b066d1-dcac-457d-88c6-9f3425268aa6)
+
 
 
 ### Built With
